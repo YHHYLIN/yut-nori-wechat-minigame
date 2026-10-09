@@ -1,0 +1,19 @@
+# ===== WeChat 小游戏本地配置（含个人设置，不入库） =====
+project.private.config.json
+
+# ===== 操作系统文件 =====
+.DS_Store
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+
+# ===== 日志 =====
+*.log
+
+# ===== 依赖（若后续加工具链） =====
+node_modules/
+
+# ===== 编辑器 =====
+.vscode/
+.idea/
+*.swp
